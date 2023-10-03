@@ -9,8 +9,8 @@ I used Google Docs (see links to activity tasks below) to fill out the activitie
 I learnt DNS servers, ports for the specific DNS server and how to write up a report for an incident.
 
 
-## Activities that I worked on
-# Part 1 + 2 of activity
+# Activities that I worked on
+## Part 1 + 2 of activity
 Cybersecurity Incident Report: Network Traffic Analysis:
 https://docs.google.com/document/d/16bBqbUafSirlL9W1ADSjdyAYoID1W4uDg34ydNhE-XM/edit?usp=sharing
 
